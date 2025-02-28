@@ -1,4 +1,4 @@
-# Reinforcement-Learning-from-Human-Feedback-Using-PPO
+# LLM Fine-tuning: Reinforcement-Learning-from-Human-Feedback-Using-PPO
 
 ![PPO_image](https://github.com/user-attachments/assets/1b87fe28-18ee-4f56-9555-ba6f6a2fad57)
 
