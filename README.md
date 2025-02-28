@@ -45,7 +45,11 @@ The above image is taken from [here](https://github.com/huggingface/trl/blob/mai
 !pip install rouge_score
 !pip install matplotlib
 !pip install numpy
+```
+
 Import required libraries
+
+```python
 import torch
 from tqdm import tqdm
 import pandas as pd
